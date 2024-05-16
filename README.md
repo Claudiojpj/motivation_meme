@@ -24,9 +24,9 @@ motivation-meme-html-study/
 
 -> assets/ # Directory containing project assets
 
-  -> images/ # Directory containing image assets
+-> images/ # Directory containing image assets
   
-    -> daenerys.jpeg # Image used in the meme
+-> daenerys.jpeg # Image used in the meme
 
 
 ## Contributing
