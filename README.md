@@ -19,9 +19,13 @@ To view the project locally, follow these steps:
 motivation-meme-html-study/
 
 -> index.html # HTML file containing the meme content
+
 -> style.css # CSS file for styling the HTML page
+
 -> assets/ # Directory containing project assets
+
   -> images/ # Directory containing image assets
+  
     -> daenerys.jpeg # Image used in the meme
 
 
